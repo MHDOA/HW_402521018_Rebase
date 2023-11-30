@@ -12,6 +12,7 @@ this is the file1 edit on commit A1
 
 =======
 this is the file1 edit on commit B1
+<<<<<<< HEAD
 
 
 =======
@@ -27,3 +28,6 @@ this is the file1 edit on commit A1
 =======
 this is the file1 edit on commit B1
 >>>>>>> 37aca4a (B1)
+=======
+this is the file1 edit on commit A2
+>>>>>>> 0c85502 (A2)
