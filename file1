@@ -7,6 +7,7 @@ this is the file1 edit on commit D
 this is the file1 edit on commit E
 =======
 this is the file1 edit on commit A1
+<<<<<<< HEAD
 
 
 =======
@@ -23,3 +24,6 @@ this is the file1 edit on commit D1
 =======
 this is the file1 edit on commit A1
 
+=======
+this is the file1 edit on commit B1
+>>>>>>> 37aca4a (B1)
